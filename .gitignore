@@ -1,0 +1,14 @@
+# Build artifacts
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.lss
+*.map
+
+# IDE/System specific
+*.workspace
+.DS_Store
+Thumbs.db
